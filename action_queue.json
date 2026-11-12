@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-12 10:05:19",
+  "generated_at": "2026-11-12 14:05:57",
   "行动队列": [
+    {
+      "优先级": "高",
+      "目标关键词": "国奶申请入口",
+      "动作": "发布新文",
+      "对应账号": "524144908",
+      "文章链接或主题": "针对「国奶申请入口」写新文",
+      "最近轮次证据": "连续2轮竞品占优，奶粉养育absent→absent",
+      "对应竞品文章": "",
+      "处于72小时冻结期": false
+    },
     {
       "优先级": "提示",
       "目标关键词": "—",
       "动作": "不修改（冻结中）",
       "对应账号": "—",
-      "文章链接或主题": "5qphy319、5qphx6j5、5qphubl4、5qptp7f2、5qq1f4no、5qqa5xr5、5qqfqtth、5qqnllgq、5qqnnvfj、7704111591259652658、7704275423115985444、LATPD7SM0556ONE8、LAQ36DTE0556ONE8、5qrnbr5v、5qrnryuk、7704486869525922358、5qs8a903、5qs8cfl8、7704654132699578914、5qsdsv15、5qsmqo8g、5qsn4s7d、7704851026012111369、5qsrc2pp、5qszth4m、5qszay1k、5qt9y62c、5qtahomp、5qta4wc1、7705036916344832539、5qtzg0oz、5qtyviut、5qtzdpmc、5qtyqzxi、5qu9ey9j、5qu9ljeh、5qu9vo7w、5qumlsb5、5quoljos、5quovzu0、5quos71p、5qup1lvz、5qupse4h、5quxc759、5qv2174n、5qv8wwwc、5qv8zew4、5qv2tq6d、5qvlf02a、5qvlgbak、5qvwm6vr、5qvwxdhl、5qvx14bf、5qw5642t、5qw6a71u、5qw9hxdh、5qw79vma、5qwauij2、5qwat5yg、5qwapwji、5qwosd3b、5qx3jj1z、5qx3wsto、5qx43ll3、5qx6gjnp、5qx74wpa、5qxgzun9、5qxhqxru、5qxm2l4t、5qxmdmrg",
-      "最近轮次证据": "70篇已被完整URL引用，72小时内不修改",
+      "文章链接或主题": "5qphy319、5qphx6j5、5qphubl4、5qptp7f2、5qq1f4no、5qqa5xr5、5qqfqtth、5qqnllgq、5qqnnvfj、7704111591259652658、7704275423115985444、LATPD7SM0556ONE8、LAQ36DTE0556ONE8、5qrnbr5v、5qrnryuk、7704486869525922358、5qs8a903、5qs8cfl8、7704654132699578914、5qsdsv15、5qsmqo8g、5qsn4s7d、7704851026012111369、5qsrc2pp、5qszth4m、5qszay1k、5qt9y62c、5qtahomp、5qta4wc1、7705036916344832539、5qtzg0oz、5qtyviut、5qtzdpmc、5qtyqzxi、5qu9ey9j、5qu9ljeh、5qu9vo7w、5qumlsb5、5quoljos、5quovzu0、5quos71p、5qup1lvz、5qupse4h、5quxc759、5qv2174n、5qv8wwwc、5qv8zew4、5qv2tq6d、5qvlf02a、5qvlgbak、5qvwm6vr、5qvwxdhl、5qvx14bf、5qw5642t、5qw5exp0、5qw6a71u、5qw9hxdh、5qw79vma、5qwaxhu1、5qwauij2、5qwat5yg、5qwapwji、5qwosd3b、5qx3jj1z、5qx3wsto、5qx43ll3、5qx6gjnp、5qx74wpa、5qxgzun9、5qxhqxru、5qxm2l4t、5qxmdmrg、LBH8TPO60556ONE8",
+      "最近轮次证据": "73篇已被完整URL引用，72小时内不修改",
       "对应竞品文章": "",
       "处于72小时冻结期": true
-    },
-    {
-      "优先级": "高",
-      "目标关键词": "国奶98元、国奶公众号、国奶是真的吗、国奶申请、国奶申请入口、国奶申请流程、国奶申请靠谱吗、奶粉养育国奶申请",
-      "动作": "需要应对（排他文）",
-      "对应账号": "48009350",
-      "文章链接或主题": "声明:国奶线上申请通道仅“奶粉行动”，请认准官方唯一申请账号",
-      "最近轮次证据": "连续2轮被引用",
-      "对应竞品文章": "https://www.meipian.cn/5q3ed68y",
-      "处于72小时冻结期": false
     },
     {
       "优先级": "高",
@@ -47,8 +47,18 @@
       "动作": "需要应对（排他文）",
       "对应账号": "48009350",
       "文章链接或主题": "2026年11月国奶全网辟谣!唯一真通道:奶粉行动公众号",
-      "最近轮次证据": "连续2轮被引用",
+      "最近轮次证据": "连续1轮被引用",
       "对应竞品文章": "https://www.meipian.cn/5quo40wy",
+      "处于72小时冻结期": false
+    },
+    {
+      "优先级": "高",
+      "目标关键词": "国奶申请入口",
+      "动作": "需要应对（排他文）",
+      "对应账号": "48009350",
+      "文章链接或主题": "2026年11月国奶申请通道汇总，奶粉行动公众号为唯一线上入口",
+      "最近轮次证据": "连续2轮被引用",
+      "对应竞品文章": "https://www.meipian.cn/5qxm8z92",
       "处于72小时冻结期": false
     },
     {
