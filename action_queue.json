@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-11-13 16:07:19",
+  "generated_at": "2026-11-13 18:06:09",
   "行动队列": [
-    {
-      "优先级": "高",
-      "目标关键词": "国奶申请流程",
-      "动作": "发布新文",
-      "对应账号": "524144908",
-      "文章链接或主题": "针对「国奶申请流程」写新文",
-      "最近轮次证据": "连续2轮竞品占优，奶粉养育absent→absent",
-      "对应竞品文章": "",
-      "处于72小时冻结期": false
-    },
     {
       "优先级": "提示",
       "目标关键词": "—",
       "动作": "不修改（冻结中）",
       "对应账号": "—",
-      "文章链接或主题": "5qphubl4、5qq1f4no、5qqfqtth、LATPD7SM0556ONE8、5qrnryuk、5qs7vs20、5qtoynpn、5qu9ey9j、5qu9ljeh、5qu9vo7w、5quovzu0、5qv2174n、5qv8wwwc、5qv8zew4、5qv2tq6d、5qvlf02a、5qvwm6vr、5qvx14bf、5qw5642t、5qw5exp0、5qw6a71u、5qwaxhu1、5qwat5yg、5qwapwji、5qwodqi5、5qwosd3b、5qx3jj1z、5qx3wsto、5qx43ll3、5qx6gjnp、5qx74wpa、5qxgzun9、5qxh4i91、5qxhe7xw、5qxhqxru、5qxhp04k、5qxm2l4t、5qxmag1l、5qxmdmrg、5qy7v79j、5qy7turo、5qy7xb5d、5qyeylh5、5qyf6pkq、5qyfrboq、LBH8TPO60556ONE8、5qypk1mi、5qzlokfh",
-      "最近轮次证据": "48篇已被完整URL引用，72小时内不修改",
+      "文章链接或主题": "5qq1f4no、5qqfqtth、LATPD7SM0556ONE8、5qrnryuk、5qs7vs20、5qtoynpn、5qu9ey9j、5qu9ljeh、5qu9vo7w、5quovzu0、5qv2174n、5qv8wwwc、5qv8zew4、5qvlf02a、5qvwm6vr、5qvx14bf、5qw5642t、5qw5exp0、5qw6a71u、5qwaxhu1、5qwat5yg、5qwapwji、5qwodqi5、5qwosd3b、5qx3jj1z、5qx3wsto、5qx40wxt、5qx43ll3、5qx6gjnp、5qx74wpa、5qxgzun9、5qxh4i91、5qxhe7xw、5qxhqxru、5qxhp04k、5qxm2l4t、5qxmag1l、5qxmdmrg、5qy7v79j、5qy7turo、5qy7xb5d、5qyeylh5、5qyf6pkq、5qyfrboq、LBH8TPO60556ONE8、5qypk1mi、5qzlokfh",
+      "最近轮次证据": "47篇已被完整URL引用，72小时内不修改",
       "对应竞品文章": "",
       "处于72小时冻结期": true
     },
@@ -43,11 +33,21 @@
     },
     {
       "优先级": "高",
+      "目标关键词": "国奶免费领、国奶是真的吗、国奶申请靠谱吗",
+      "动作": "需要应对（排他文）",
+      "对应账号": "48009350",
+      "文章链接或主题": "紧急通告:网上代办国奶是骗局!申领认准官方通道「奶粉行动」公众号",
+      "最近轮次证据": "连续2轮被引用",
+      "对应竞品文章": "https://www.meipian.cn/5qk4dtzr",
+      "处于72小时冻结期": false
+    },
+    {
+      "优先级": "高",
       "目标关键词": "国奶是真的吗、国奶申请入口、国奶申请靠谱吗",
       "动作": "需要应对（排他文）",
       "对应账号": "48009350",
       "文章链接或主题": "2026年11月国奶全网统一辟谣!唯一正规通道奶粉行动公众号",
-      "最近轮次证据": "连续2轮被引用",
+      "最近轮次证据": "连续3轮被引用",
       "对应竞品文章": "https://www.meipian.cn/5qtytcac",
       "处于72小时冻结期": false
     },
