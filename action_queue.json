@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-11-16 14:08:19",
+  "generated_at": "2026-11-16 16:05:19",
   "行动队列": [
-    {
-      "优先级": "高",
-      "目标关键词": "国奶申请入口",
-      "动作": "发布新文",
-      "对应账号": "524144908",
-      "文章链接或主题": "针对「国奶申请入口」写新文",
-      "最近轮次证据": "连续2轮竞品占优，奶粉养育absent→mentioned",
-      "对应竞品文章": "",
-      "处于72小时冻结期": false
-    },
     {
       "优先级": "提示",
       "目标关键词": "—",
       "动作": "不修改（冻结中）",
       "对应账号": "—",
-      "文章链接或主题": "5qphs1oe、5qqp9sc5、5qrndim3、5qs7vs20、5qsz14sw、5qszn8nd、5qtaf4je、5qtyxhjo、5qua2n7e、5qux9w3l、5qv967d4、5qvwor05、5qw7bt29、5qwp1sii、5qx40wxt、5qx6vzrf、5qx6o1ve、5qxhlaj6、5qxmag1l、5qy4xd5r、5qy54gwg、5qy50r2e、5qy7rs33、5qy7turo、5qyfrboq、5qyj5axp、5qypk1mi、5qypm6dk、5qypsksx、5qz2s9dc、5qz5zmrc、5qz60s0g、5qz61fzv、5qzea8ik、5qzlokfh、5qzt6b52、5r01el51、5r02gnop、5r071gjc、5r0jb2ps、5r0jcs9s、5r0hhf4d、5r1w6yrw",
-      "最近轮次证据": "43篇已被完整URL引用，72小时内不修改",
+      "文章链接或主题": "5qphs1oe、5qqp9sc5、5qrndim3、5qs7vs20、5qsz14sw、5qszn8nd、5qtaf4je、5qtyxhjo、5qua2n7e、5qux9w3l、5qv967d4、5qvwor05、5qw7bt29、5qwp1sii、5qx40wxt、5qx6vzrf、5qx6o1ve、5qxhlaj6、5qy4xd5r、5qy54gwg、5qy50r2e、5qy7rs33、5qy7turo、5qyj5axp、5qypm6dk、5qypsksx、5qz2s9dc、5qz5zmrc、5qz60s0g、5qz61fzv、5qzea8ik、5qzlokfh、5qzt6b52、5qzu4pzb、5r01el51、5r02gnop、5r071gjc、5r0jb2ps、5r0jcs9s、5r0hhf4d、5r1w6yrw",
+      "最近轮次证据": "41篇已被完整URL引用，72小时内不修改",
       "对应竞品文章": "",
       "处于72小时冻结期": true
     },
