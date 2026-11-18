@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-11-18 10:05:36",
+  "generated_at": "2026-11-18 11:59:24",
   "行动队列": [
+    {
+      "优先级": "高",
+      "目标关键词": "奶粉养育国奶申请",
+      "动作": "发布新文",
+      "对应账号": "48009350",
+      "文章链接或主题": "针对「奶粉养育国奶申请」写新文",
+      "最近轮次证据": "连续2轮竞品占优，奶粉养育absent→absent",
+      "对应竞品文章": "",
+      "处于72小时冻结期": false
+    },
     {
       "优先级": "提示",
       "目标关键词": "—",
       "动作": "不修改（冻结中）",
       "对应账号": "—",
-      "文章链接或主题": "5qqp9sc5、5qrndim3、5qsz14sw、5qtaf4je、5qvxfoey、5qw5q5kc、5qw62k5i、5qx3pji0、5qxhlaj6、5qyiwvu1、5qypm6dk、5qyq6vtg、5qz2tnal、5qz5zmrc、5qz61fzv、5qzea8ik、5qzt78q4、5qzu4pzb、5qzv5kk5、5r01el51、5r0jeqr9、5r0jcs9s、5r0hhf4d、5r1vpdmg、5r1w6yrw、5r1wfr1s",
-      "最近轮次证据": "26篇已被完整URL引用，72小时内不修改",
+      "文章链接或主题": "5qqp9sc5、5qrndim3、5qsz14sw、5qtaf4je、5qvxfoey、5qw5q5kc、5qw62k5i、5qx3lw0c、5qx3pji0、5qxhlaj6、5qyiwvu1、5qypm6dk、5qyq6vtg、5qz2tnal、5qz5zmrc、5qz61fzv、5qzea8ik、5qzt78q4、5qzu4pzb、5qzv5kk5、5r01el51、5r0jeqr9、5r0jcs9s、5r0hhf4d、5r1vpdmg、5r1w6yrw、5r1wfr1s",
+      "最近轮次证据": "27篇已被完整URL引用，72小时内不修改",
       "对应竞品文章": "",
       "处于72小时冻结期": true
     },
