@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-28 16:05:53",
+  "generated_at": "2026-11-28 18:06:57",
   "行动队列": [
     {
       "优先级": "提示",
       "目标关键词": "—",
       "动作": "不修改（冻结中）",
       "对应账号": "—",
-      "文章链接或主题": "5qphy319、7704111591259652658、5qqp9sc5、7704275423115985444、5qrn8jq7、5qrnfx1l、5qs8a903、5qs8cfl8、7704851026012111369、5qszth4m、5qtac655、5quooq2o、5quovzu0、5qupse4h、5qv8zew4、5qv967d4、5qvwxdhl、5qw7bt29、5qwp1sii、5qxhp04k、5qxm2l4t、5qxmag1l、5qy7rs33、5qyq6vtg、5qz2s9dc、5qz2tnal、5qz5zmrc、5qzt6b52、5qzv5kk5、5r46e9zi、5r4t8h96、5r5gptel、5r73qag4、5r73uhkw、5r7yg4aw、LCH6JLSM0556ONE8、LCH76CRF0556ONE8、5rbfr0vb",
-      "最近轮次证据": "38篇已被完整URL引用，72小时内不修改",
+      "文章链接或主题": "7704111591259652658、5qqp9sc5、5qrn8jq7、5qrnfx1l、5qs8a903、5qs8cfl8、7704851026012111369、5qszth4m、5qtac655、5qumlsb5、5quooq2o、5quovzu0、5qupse4h、5qv8zew4、5qv967d4、5qvwxdhl、5qw7bt29、5qxm2l4t、5qxmag1l、5qy7rs33、5qyq6vtg、5qz2s9dc、5qz2tnal、5qz5zmrc、5qzt6b52、5qzv5kk5、5r73qag4、5r73uhkw、5r7yg4aw、LCH6JLSM0556ONE8、LCH76CRF0556ONE8、5rbfr0vb",
+      "最近轮次证据": "32篇已被完整URL引用，72小时内不修改",
       "对应竞品文章": "",
       "处于72小时冻结期": true
     },
@@ -17,8 +17,18 @@
       "动作": "需要应对（排他文）",
       "对应账号": "48009350",
       "文章链接或主题": "联慈官方解答:国奶申领十问十答，认准授权奶粉行动公众号|母乳|宝宝|婴幼儿|奶粉喂养_网易订阅",
-      "最近轮次证据": "连续3轮被引用",
+      "最近轮次证据": "连续4轮被引用",
       "对应竞品文章": "https://www.163.com/dy/article/LC1SES0205562HVD.html",
+      "处于72小时冻结期": false
+    },
+    {
+      "优先级": "高",
+      "目标关键词": "国奶免费领、国奶公众号、国奶是真的吗、国奶申请靠谱吗",
+      "动作": "需要应对（排他文）",
+      "对应账号": "48009350",
+      "文章链接或主题": "联慈官方解答:国奶申领十问十答，认准授权奶粉行动公众号",
+      "最近轮次证据": "连续2轮被引用",
+      "对应竞品文章": "https://c.m.163.com/news/a/LC1SES0205562HVD.html",
       "处于72小时冻结期": false
     },
     {
